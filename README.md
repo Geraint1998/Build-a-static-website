@@ -1,6 +1,6 @@
 *建站小白的我最近一直在尝试各种建站方案，于是记录下了自己的心得体会*
 
-# 建站的多种方案/[一套完整的建站方案](https://github.com/Geraint1998/Build-a-static-website/blob/master/%E4%B8%80%E5%A5%97%E5%AE%8C%E6%95%B4%E7%9A%84%E5%BB%BA%E7%AB%99%E6%96%B9%E6%A1%88.md)
+# 建站的多种方案/[一套完整的建站方案](https://gitee.com/geraint1998/Build-a-static-website/blob/master/%E4%B8%80%E5%A5%97%E5%AE%8C%E6%95%B4%E7%9A%84%E5%BB%BA%E7%AB%99%E6%96%B9%E6%A1%88.md)
 
 **很多小白都想着手搭建自己的网站，我也是，经过一个月的折腾，我摸出了几套建站的方案，**
 
